@@ -1,0 +1,24 @@
+h1 {
+  margin-left: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.blogs {
+  margin: 20px 15px 20px 0;
+}
+
+.list {
+  min-width: 120px;
+  margin: 10px 0;
+  border: 1px solid #1c1c19;
+  border-radius: 5px;
+}
+
+.list p {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.list i {
+  color: darkgoldenrod;
+}
